@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    justify-content: center;
+    background: coral;
+}
+#continer{
+    border: 2px solid;
+    width: 280px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    color: black;
+}
+#hedtext{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+input{
+    width: 220px;
+    height: 30px;
+    margin: 8px;
+}
+button{
+    width: 220px;
+    height: 30px;
+    background-color: rgb(62, 62, 223);
+    border: none;
+    color: white;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+#Login-with-face{
+    margin-bottom: 120px;
+    margin-top: 20px;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: rgb(34, 56, 180);
+    font-size: 15px;
+    
+}
+#password{
+     margin-top: 16px;
+}
+#account{
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+span{
+    color: rgb(34, 56, 180);
+}
+img{
+    width: 20px;
+}
